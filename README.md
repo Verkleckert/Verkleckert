@@ -61,6 +61,7 @@ Keine Ahnug was ich noch sagen soll
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verkleckert&layout=donut&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="250" alt="stats graph" /> <br>
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Verkleckert&layout=donut&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" alt="GitHub Streak" /></a>
 
 </div>
 
